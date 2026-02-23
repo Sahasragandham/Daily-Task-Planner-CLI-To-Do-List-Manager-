@@ -1,16 +1,16 @@
 Daily-Task-Planner-Python-CLI-Project
 
 A simple command-line To-Do List Manager built using Python.
----
-##📌 Project Overview
 
+##📌 Project Overview
+---
 This application allows users to manage their daily tasks using a menu-driven CLI interface.
 Users can add new tasks, remove existing tasks, and view all tasks with their completion status.
 
 The system runs continuously until the user chooses to exit.
----
-##The project also includes:
 
+##The project also includes:
+---
 📋 Task tracking system
 
 ✔ Completed and pending task status display
@@ -18,9 +18,9 @@ The system runs continuously until the user chooses to exit.
 🔁 Continuous menu-driven interaction
 
 🧠 Logical task management using lists
----
-##🧠 Concepts Used
 
+##🧠 Concepts Used
+---
 Functions
 
 While loops
@@ -32,9 +32,9 @@ List operations
 User input handling
 
 Break and continue statements
----
-##⚙️ How to Run the Project
 
+##⚙️ How to Run the Project
+---
 Make sure Python is installed.
 
 Clone the repository
@@ -42,8 +42,10 @@ Clone the repository
 Navigate to the project folder
 
 Run the program
-```bash
+
 🖥 Example Output
+---
+```bash
 ====================================
         📜 DAILY TASK PLANNER
         Organize • Plan • Achieve
@@ -63,8 +65,9 @@ Enter your choice: 3
 
 ==== YOUR TASKS ====
 [ ] Complete assignment
-🚀 Future Improvements
 ```
+##🚀 Future Improvements
+---
 Remove tasks by selecting task number
 
 Add progress tracking percentage
