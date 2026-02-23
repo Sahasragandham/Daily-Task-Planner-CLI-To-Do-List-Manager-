@@ -1,4 +1,4 @@
-Daily-Task-Planner-Python-CLI-Project
+##Daily-Task-Planner-Python-CLI-Project
 
 A simple command-line To-Do List Manager built using Python.
 
