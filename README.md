@@ -1,57 +1,76 @@
-====================================================
-           DAILY TASK PLANNER
-        CLI TO-DO LIST MANAGER
-====================================================
+Daily-Task-Planner-Python-CLI-Project
 
-DESCRIPTION:
-A simple Command-Line Interface (CLI) based To-Do
-List Manager built using Python. This application
-helps users organize, manage, and track daily tasks
-efficiently.
+A simple command-line To-Do List Manager built using Python.
+---
+##📌 Project Overview
 
-----------------------------------------------------
-FEATURES:
-----------------------------------------------------
-[+] Add new tasks
-[-] Remove existing tasks
-[ ] View all tasks
-[✓] Track completed tasks
-[↻] Interactive menu-driven system
+This application allows users to manage their daily tasks using a menu-driven CLI interface.
+Users can add new tasks, remove existing tasks, and view all tasks with their completion status.
 
-----------------------------------------------------
-TECHNOLOGIES USED:
-----------------------------------------------------
-- Python
-- Lists
-- Loops
-- Conditional Statements
-- Functions
+The system runs continuously until the user chooses to exit.
+---
+##The project also includes:
 
-----------------------------------------------------
-HOW IT WORKS:
-----------------------------------------------------
-1. Displays a welcome dashboard.
-2. User selects an option from menu.
-3. Tasks are stored using Python lists.
-4. Task status updates dynamically.
-5. Program runs until user exits.
+📋 Task tracking system
 
-----------------------------------------------------
-LEARNING OUTCOMES:
-----------------------------------------------------
-- Menu-driven programming
-- List manipulation
-- Input handling
-- Logical thinking
-- Debugging skills
+✔ Completed and pending task status display
 
-----------------------------------------------------
-FUTURE IMPROVEMENTS:
-----------------------------------------------------
-* Remove tasks by number
-* Add progress tracking
-* Store tasks in a file
-* Add priority levels
-* Improve UI formatting
+🔁 Continuous menu-driven interaction
 
-====================================================
+🧠 Logical task management using lists
+---
+##🧠 Concepts Used
+
+Functions
+
+While loops
+
+Conditional statements (if-elif-else)
+
+List operations
+
+User input handling
+
+Break and continue statements
+---
+##⚙️ How to Run the Project
+
+Make sure Python is installed.
+
+Clone the repository
+
+Navigate to the project folder
+
+Run the program
+```bash
+🖥 Example Output
+====================================
+        📜 DAILY TASK PLANNER
+        Organize • Plan • Achieve
+====================================
+
+1️⃣ Add Task
+2️⃣ Remove Task
+3️⃣ View Tasks
+4️⃣ Exit
+
+Enter your choice: 1
+
+➕ Enter Task to Add: Complete assignment
+Task added successfully!
+
+Enter your choice: 3
+
+==== YOUR TASKS ====
+[ ] Complete assignment
+🚀 Future Improvements
+```
+Remove tasks by selecting task number
+
+Add progress tracking percentage
+
+Store tasks in a file for persistence
+
+Add task priority levels
+
+Improve terminal UI design
